@@ -1,5 +1,7 @@
 # Pandas + Seaborn tutorial on Weather data for San Francisco Bay Area in California
 
+Read detailed explaination on [Ermlab Software blog](https://ermlab.com/en/blog/data-science/pandas-weather-data-visualization-tutorial/)
+
 Project analysys the weather on [San Francisco Bay Area region in California](https://en.wikipedia.org/wiki/San_Francisco_Bay_Area), exactly for cities like San Francisco, San Mateo, Santa Clara, Mountain View and San Jose.
 Data cleaning, manipulation and data transformation was done with use of [Pandas](http://pandas.pydata.org/) - powerful Python data analysis toolkit. 
 Addionaly there are many visualization, where some of them were prepared with matplotlib and [seaborn](https://seaborn.pydata.org/) library.
@@ -57,8 +59,4 @@ The second file is Python script with all the pandas and seaborn code:
  (You can also download it in [PDF version](http://pandas.pydata.org/pandas-docs/stable/pandas.pdf))
 * [Femi Anthony "Mastering Pandas"](https://www.packtpub.com/big-data-and-business-intelligence/mastering-pandas)
 * [Michael Heydt "Learning Pandas"](https://www.amazon.com/Learning-Pandas-Python-Discovery-Analysis/dp/1783985127)
-
-## Grab the code or run project in online IDE
-* You can [download code from GitHub](https://github.com/simongeek/PandasDA)
-* You can [run the project in your browser](https://plon.io/explore/pandas-seaborn-tutorial-on-weather-data-for-sa/VpQywmDRHVPRfxa3G)
 
